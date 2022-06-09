@@ -76,5 +76,6 @@ FROM mentores
 INNER JOIN curtidas ON curtidas.mnt_id = mentores.mnt_id 
 GROUP BY mentores.sala_de_aula										   
 
+-------------------------------------------------------------------------
 	
 	

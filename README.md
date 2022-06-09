@@ -1,6 +1,6 @@
-<h1 align="center">SQL JOB🔮</h1>
+<h1 align="center">SQL JOB 🚀</h1>
 
-<p align="center">🚀 Consultas query SQL!</p>
+<p align="center">Consultas query SQL!</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •

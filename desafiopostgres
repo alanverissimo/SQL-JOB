@@ -25,7 +25,7 @@ CREATE TABLE Livros
 );
     INSERT INTO Mentores(nome, turma) VALUES ('Paulo, 'Vertigo');
     INSERT INTO Mentores(nome, turma) VALUES ('Jorge', 'Vertigo');
-    INSERT INTO Mentores(nome, turma) VALUES ('Pedro', 'Five Academy');    
+    INSERT INTO Mentores(nome, turma) VALUES ('Pedro', 'Five Academy');  
 	
     SELECT * FROM Mentores			
 															   

@@ -16,7 +16,7 @@ Exercicio SQL da Alura para a Five Academy!
 As seguintes ferramentas foram usadas na construção do projeto:
 
 <div align="center">
- <img align="center" alt="Marcu-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="center" alt="Marcu-Js" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
  </div>
 
 <br>
